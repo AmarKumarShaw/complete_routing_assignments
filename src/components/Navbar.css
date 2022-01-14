@@ -1,0 +1,19 @@
+.navbar{
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow:0 0 8px 15px rgba(0,0,0,0.5);
+    padding:10px 20px;
+    margin-bottom: 30px;
+}
+
+
+
+.navbar-right ul{
+    display: flex;
+    align-items: center;   
+}
+.navbar-right li{
+    margin-right: 30px;
+}
